@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 🌟
 About Me
-Hello! I'm a seasoned Java developer with 6 years of hands-on experience in designing and developing robust applications. My expertise spans across a variety of technologies and architectures, including Java, Spring MVC, Spring Boot, Oracle Database, Docker, Kubernetes, Kafka, Redis, Hibernate, AngularJS, monolith architecture, microservice architecture, and Azure cloud.
+Hello! I'm a seasoned Java developer with 8 years of hands-on experience in designing and developing robust applications. My expertise spans across a variety of technologies and architectures, including Java, Spring MVC, Spring Boot, Oracle Database, Docker, Kubernetes, Kafka, Redis, Hibernate, AngularJS, monolith architecture, microservice architecture, and Azure cloud.
 
 ## Key Skills
 - Programming Languages: Java
