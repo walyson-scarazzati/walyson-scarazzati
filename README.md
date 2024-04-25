@@ -9,7 +9,7 @@ Hello! I'm a seasoned Java developer with 8 years of hands-on experience in desi
 - Containers & Orchestration: Docker, Kubernetes
 - Messaging Systems: Kafka
 - ORM: Hibernate
-- Frontend Development: AngularJS
+- Frontend Development: AngularJS, HTML,CSS e Javascript
 - Architectures: Monolith, Microservices
 - Cloud Platforms: Azure
   
